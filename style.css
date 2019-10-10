@@ -1,0 +1,21 @@
+.navbar-nav li{
+	padding-right: 10px;
+	font-size: 1.2rem;
+	font-family: 'Raleway', sans-serif;
+	}
+
+.navbar{
+  transition: .5s !important;
+    background-color: #262626 !important;
+}
+
+ footer{
+ 	margin-top: 10px;
+	background-color: #3f3f3f;
+	color: #d5d5d5;
+	padding-top: 3rem;
+}
+
+.footersocial{
+	color: #d5d5d5;
+}
