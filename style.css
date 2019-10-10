@@ -79,3 +79,50 @@
   }
 
 }
+
+#home {
+  padding: 1rem;
+  height: 50%;
+  z-index: 2;
+  width: 100%;
+  height: 100vh;
+
+  }
+
+#home .icons {
+  margin-top: 1rem;
+}
+
+#home .icons a .fab {
+  padding: 0.4rem;
+}
+
+#home .icons a .fab {
+  padding: 0.4rem;
+}
+
+
+#home .icons a .fab:hover {
+  color: #e31b6d;
+  -webkit-transition: all 0.5s ease-out;
+  transition: all 0.5s ease-out;
+}
+
+#home#home h1 {
+  margin-top: 10vh;
+}
+
+h1.lg-heading,
+h2.lg-heading,
+h3.lg-heading {
+  font-size: 5rem;
+  }
+
+h1.sm-heading,
+h2.sm-heading,
+h3.sm-heading {
+  margin-bottom: 2rem;
+  
+  
+
+}
