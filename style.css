@@ -2,11 +2,17 @@
 	padding-right: 10px;
 	font-size: 1.2rem;
 	font-family: 'Raleway', sans-serif;
+	font-color: #fc0324 !important;
 	}
+
+.navbar-nav li a{
+	color: #420c14 !important;
+}
 
 .navbar{
   transition: .5s !important;
-    background-color: #262626 !important;
+    background-color: #b1fc03 !important;
+
 }
 
  footer{
@@ -38,4 +44,30 @@
 
 #myBtn:hover {
   background-color: #555;
+}
+
+.bg-image {
+  /* The image used */
+  background-image: url("a.jpg");
+
+
+  /* Add the blur effect */
+  filter: blur(4px);
+  -webkit-filter: blur(3px);
+  opacity: 70%;
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.img-responsive2{
+	height: 100px;
+	position: absolute;
+	margin-top: -55px; 
+
 }
